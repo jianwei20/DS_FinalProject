@@ -1,6 +1,3 @@
-# Author : Swaminathan
-#purpose : User Interface
-
 library(shiny)
 library(ggplot2)
 library(arules)
