@@ -1,13 +1,3 @@
-#Predicting items with highest sales
-#Algorithm: Apriori
-#Packages Required:
-#					1. gdata  - To read CSV files
-#					2. arules - For manipulating and analyzing transaction data and patterns
-#							  - Also provides interfaces to C implementations of the association mining algorithms Apriori and Eclat
-#About Dataset:
-#				Total Training Sets = 983
-#				Total Products		= 98
-
 #Load the libraries
 library("gdata")
 library("arules")
